@@ -47,19 +47,3 @@
 - Clear screen and scrollback: `Ctrl-a` then `Ctrl-l`  
 
 If you want this as a ready-to-print cheat sheet or with defaults (like `Ctrl-a` then `n`/`p` for next/prev window), that can be added on top of this list.
-
-[1](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
-[2](https://tmuxcheatsheet.com)
-[3](https://man7.org/linux/man-pages/man1/tmux.1.html)
-[4](https://stackoverflow.com/questions/51639540/tmux-scroll-mode-vim-keybindings)
-[5](https://www.redhat.com/en/blog/introduction-tmux-linux)
-[6](https://gist.github.com/mzmonsour/8791835)
-[7](https://waylonwalker.com/tmux-list-keys/)
-[8](https://www.baeldung.com/linux/tmux-keys)
-[9](https://ianthehenry.com/posts/how-to-configure-tmux/)
-[10](https://dev.to/jbranchaud/the-modes-of-tmux-3d86)
-[11](https://github.com/tmux/tmux/wiki/Getting-Started)
-[12](https://dev.to/reprintsev/my-favorite-tmux-prefix-2618)
-[13](https://waylonwalker.com/tmux-copy-mode/)
-[14](https://www.reddit.com/r/tmux/comments/12p7hhp/the_perfect_prefix_keymap/)
-[15](https://stackoverflow.com/questions/11557076/if-i-set-key-bind-of-c-b-to-c-a-in-tmux-how-can-i-move-the-cursor-to-the-beginni)

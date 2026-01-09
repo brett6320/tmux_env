@@ -1,4 +1,4 @@
-Here is a single-file, batteries-included `~/.tmux.conf` aimed at heavy daily use (fast, vim-friendly, good defaults, plugin-ready).[1][2][3]
+Here is a single-file, batteries-included `~/.tmux.conf` aimed at heavy daily use (fast, vim-friendly, good defaults, plugin-ready).
 
 ```tmux
 ##### Basics #####
@@ -177,19 +177,3 @@ run -b '~/.tmux/plugins/tpm/tpm'
 - Install TPM once: `git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`, then press `Prefix + I` to install plugins.[3][5]
 
 If you share your editor (vim/neovim) keybinds or want bank-friendly tweaks (e.g., no auto-resurrect on certain hosts), this can be tailored further.
-
-[1](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
-[2](https://www.linkedin.com/pulse/complete-tmux-configuration-guide-modern-developers-2025-sadiq-ali-9x6dc)
-[3](https://thevaluable.dev/tmux-config-mouseless/)
-[4](https://www.hostinger.com/tutorials/tmux-config)
-[5](https://github.com/rothgar/awesome-tmux)
-[6](https://dev.to/krishnam/tmux-13-cool-tweaks-to-make-it-personal-and-powerful-487p)
-[7](https://github.com/tmux/tmux/wiki/Advanced-Use)
-[8](https://www.youtube.com/watch?v=jaI3Hcw-ZaA)
-[9](https://stackoverflow.com/questions/10966323/how-to-make-tmuxs-reaction-faster)
-[10](https://builtin.com/articles/tmux-config)
-[11](https://github.com/tmux/tmux/issues/2551)
-[12](https://www.codementor.io/tmux/tutorial/tmux-tutorial-advanced-tips-tricks)
-[13](https://www.reddit.com/r/linux/comments/5ovfgz/tmux_really_slows_down_the_terminal_performance_a/)
-[14](https://www.reddit.com/r/commandline/comments/1erhre8/practical_tmux_a_howto_guide_beyond_the_basics/)
-[15](https://www.reddit.com/r/vim/comments/10in7wl/a_beautiful_tmux_setup_in_3_minutes/)
